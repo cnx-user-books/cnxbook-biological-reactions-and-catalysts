@@ -1,39 +1,16 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mitch Singer">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11829</md:content-id>
-  <md:title>Biological reactions and catalysts</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>ac475ff0-5866-459c-beea-b692921356b9</md:uuid>
-<md:slug>biological-reactions-and-catalysts</md:slug>
-</metadata>
-
+    <md:content-id>col11829</md:content-id>
+    <md:title>Biological reactions and catalysts</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>ac475ff0-5866-459c-beea-b692921356b9</md:uuid>
+    <md:slug>biological-reactions-and-catalysts</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m56007"/>
-        
-      
-    
-    
-      <col:module document="m56008"/>
-        
-      
-    
-    
-      <col:module document="m56009"/>
-        
-      
-    
+    <col:module document="m56007"/>
+    <col:module document="m56008"/>
+    <col:module document="m56009"/>
   </col:content>
 </col:collection>
